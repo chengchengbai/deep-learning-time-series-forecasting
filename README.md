@@ -1,5 +1,5 @@
 # Deep Learning Time Series Forecasting Paper list
-> deep learing time series forecasting reading list
+> reading list of deep learning time series forecasting
 
 ## Review & Competition
 - Längkvist M, Karlsson L, Loutfi A. A review of unsupervised feature learning and deep learning for time-series modeling[J]. Pattern Recognition Letters, 2014, 42: 11-24.
