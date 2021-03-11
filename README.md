@@ -1,4 +1,4 @@
-# Deep Learning Time Series Forecasting Paper list
+# Deep Learning Time Series Forecasting Paper List
 > Reading list of deep learning time series forecasting
 
 ## Review & Competition
